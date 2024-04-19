@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Anzeige
+comment1.params=parent\ modal\ ID\ empfaenger\ betreff\ inhalt
+comment1.target=Anzeige(javax.swing.JFrame,\ boolean,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment2.params=iD\ empfaenger\ betreff\ inhalt
+comment2.target=void\ initGui(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+numComments=3

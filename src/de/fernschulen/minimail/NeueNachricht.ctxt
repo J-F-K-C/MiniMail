@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=NeueNachricht
+comment1.params=parent\ modal
+comment1.target=NeueNachricht(javax.swing.JFrame,\ boolean)
+comment2.params=
+comment2.target=void\ initGui()
+comment3.params=
+comment3.target=void\ senden()
+comment4.params=
+comment4.target=javax.mail.Session\ verbindungHerstellen()
+comment5.params=
+comment5.target=javax.mail.PasswordAuthentication\ getPasswordAuthentication()
+comment6.params=sitzung
+comment6.target=void\ nachrichtVerschicken(javax.mail.Session)
+comment7.params=
+comment7.target=void\ nachrichtSpeichern()
+comment8.params=
+comment8.target=void\ loginDatenLaden()
+numComments=9

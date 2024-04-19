@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=MiniMailStart
+comment1.params=titel
+comment1.target=MiniMailStart(java.lang.String)
+comment2.params=
+comment2.target=void\ senden()
+comment3.params=
+comment3.target=void\ empfangen()
+comment4.params=
+comment4.target=void\ beenden()
+numComments=5

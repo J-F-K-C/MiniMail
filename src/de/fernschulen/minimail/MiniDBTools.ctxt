@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=MiniDBTools
+comment1.params=arg
+comment1.target=java.sql.Connection\ oeffnenDB(java.lang.String)
+comment2.params=verbindung\ sqlAnweisung
+comment2.target=java.sql.ResultSet\ liefereErgebnis(java.sql.Connection,\ java.lang.String)
+comment3.params=protokoll
+comment3.target=void\ schliessenDB(java.lang.String)
+numComments=4

@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=ErsteMail
+comment1.params=
+comment1.target=javax.mail.Session\ verbindungHerstellen()
+comment2.params=
+comment2.target=javax.mail.PasswordAuthentication\ getPasswordAuthentication()
+comment3.params=sitzung
+comment3.target=void\ nachrichtVerschicken(javax.mail.Session)
+comment4.params=args
+comment4.target=void\ main(java.lang.String[])
+numComments=5
