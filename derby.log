@@ -1,0 +1,80 @@
+----------------------------------------------------------------
+Tue Mar 03 12:01:17 CET 2020:
+Booten von Derby-Version The Apache Software Foundation - Apache Derby - 10.15.2.0 - (1873585): Instanz a816c00e-0170-a00e-9d66-0000030ad1e8
+für Datenbankverzeichnis C:\Users\siebeck\Documents\java d\codes\java17d\MiniMailKomplett\mailDB mit Class Loader jdk.internal.loader.ClassLoaders$AppClassLoader@4e0e2f2a
+Geladen aus file:/C:/Program%20Files/db-derby-10.15.2.0-bin/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=13.0.1+9
+user.dir=C:\Users\siebeck\Documents\java d\codes\java17d\MiniMailKomplett
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Datenbank-Class Loader wurde gestartet - derby.database.classpath=''
+----------------------------------------------------------------
+Tue Mar 03 12:01:18 CET 2020:
+Instanz a816c00e-0170-a00e-9d66-0000030ad1e8 im Datenbankverzeichnis C:\Users\siebeck\Documents\java d\codes\java17d\MiniMailKomplett\mailDB mit Class Loader jdk.internal.loader.ClassLoaders$AppClassLoader@4e0e2f2a wird heruntergefahren
+----------------------------------------------------------------
+Tue Mar 03 12:01:27 CET 2020:
+Booten von Derby-Version The Apache Software Foundation - Apache Derby - 10.15.2.0 - (1873585): Instanz 08264012-0170-a00e-9d66-0000030ad1e8
+für Datenbankverzeichnis C:\Users\siebeck\Documents\java d\codes\java17d\MiniMailKomplett\mailDB mit Class Loader jdk.internal.loader.ClassLoaders$AppClassLoader@4e0e2f2a
+Geladen aus file:/C:/Program%20Files/db-derby-10.15.2.0-bin/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=13.0.1+9
+user.dir=C:\Users\siebeck\Documents\java d\codes\java17d\MiniMailKomplett
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Datenbank-Class Loader wurde gestartet - derby.database.classpath=''
+----------------------------------------------------------------
+Tue Mar 03 12:01:27 CET 2020:
+Instanz 08264012-0170-a00e-9d66-0000030ad1e8 im Datenbankverzeichnis C:\Users\siebeck\Documents\java d\codes\java17d\MiniMailKomplett\mailDB mit Class Loader jdk.internal.loader.ClassLoaders$AppClassLoader@4e0e2f2a wird heruntergefahren
+----------------------------------------------------------------
+Tue Mar 03 12:01:28 CET 2020:
+Booten von Derby-Version The Apache Software Foundation - Apache Derby - 10.15.2.0 - (1873585): Instanz 6839c016-0170-a00e-9d66-0000030ad1e8
+für Datenbankverzeichnis C:\Users\siebeck\Documents\java d\codes\java17d\MiniMailKomplett\mailDB mit Class Loader jdk.internal.loader.ClassLoaders$AppClassLoader@4e0e2f2a
+Geladen aus file:/C:/Program%20Files/db-derby-10.15.2.0-bin/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=13.0.1+9
+user.dir=C:\Users\siebeck\Documents\java d\codes\java17d\MiniMailKomplett
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Datenbank-Class Loader wurde gestartet - derby.database.classpath=''
+----------------------------------------------------------------
+Tue Mar 03 12:01:28 CET 2020:
+Instanz 6839c016-0170-a00e-9d66-0000030ad1e8 im Datenbankverzeichnis C:\Users\siebeck\Documents\java d\codes\java17d\MiniMailKomplett\mailDB mit Class Loader jdk.internal.loader.ClassLoaders$AppClassLoader@4e0e2f2a wird heruntergefahren
+----------------------------------------------------------------
+Tue Mar 03 12:09:15 CET 2020:
+Booten von Derby-Version The Apache Software Foundation - Apache Derby - 10.15.2.0 - (1873585): Instanz c851401a-0170-a005-b5f2-00000305c998
+für Datenbankverzeichnis C:\Users\siebeck\Documents\java d\codes\java17d\MiniMailKomplett\mailDB mit Class Loader jdk.internal.loader.ClassLoaders$AppClassLoader@4e0e2f2a
+Geladen aus file:/C:/Program%20Files/db-derby-10.15.2.0-bin/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=13.0.1+9
+user.dir=C:\Users\siebeck\Documents\java d\codes\java17d\MiniMailKomplett
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Datenbank-Class Loader wurde gestartet - derby.database.classpath=''
+----------------------------------------------------------------
+Tue Mar 03 12:09:15 CET 2020:
+Instanz c851401a-0170-a005-b5f2-00000305c998 im Datenbankverzeichnis C:\Users\siebeck\Documents\java d\codes\java17d\MiniMailKomplett\mailDB mit Class Loader jdk.internal.loader.ClassLoaders$AppClassLoader@4e0e2f2a wird heruntergefahren
+----------------------------------------------------------------
+Tue Mar 03 12:09:59 CET 2020:
+Booten von Derby-Version The Apache Software Foundation - Apache Derby - 10.15.2.0 - (1873585): Instanz 286cc01e-0170-a005-b5f2-00000305c998
+für Datenbankverzeichnis C:\Users\siebeck\Documents\java d\codes\java17d\MiniMailKomplett\mailDB mit Class Loader jdk.internal.loader.ClassLoaders$AppClassLoader@4e0e2f2a
+Geladen aus file:/C:/Program%20Files/db-derby-10.15.2.0-bin/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=13.0.1+9
+user.dir=C:\Users\siebeck\Documents\java d\codes\java17d\MiniMailKomplett
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Datenbank-Class Loader wurde gestartet - derby.database.classpath=''
+----------------------------------------------------------------
+Tue Mar 03 12:09:59 CET 2020:
+Instanz 286cc01e-0170-a005-b5f2-00000305c998 im Datenbankverzeichnis C:\Users\siebeck\Documents\java d\codes\java17d\MiniMailKomplett\mailDB mit Class Loader jdk.internal.loader.ClassLoaders$AppClassLoader@4e0e2f2a wird heruntergefahren
